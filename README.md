@@ -4,6 +4,9 @@ Welcome to WikiChat, your personal gateway to conversing with Wikipedia articles
 
 WikiChat is designed with 10 distinct intents, allowing you to engage in meaningful conversations : `greeting`,`goodbye`,`age`,`name`,`help`,`weather`,`joke`,`thanks`, `news`, and `wikipedia`.
 
+
+![wikichat](https://github.com/tnahddisttud/wikichat/assets/37979764/5fe87dd1-35f9-4831-8952-1dec80b4d520)
+
 ---
 
 ### Getting Started:
@@ -44,6 +47,9 @@ To set up WikiChat locally, follow these simple steps:
    - Open your preferred web browser.
    - Enter `http://localhost:8501` in the address bar.
    - Click on the "Create" button to create the database.
+   
+![wikichat_create_db](https://github.com/tnahddisttud/wikichat/assets/37979764/ac99ed63-0211-41b2-b1ba-b6c55c17b82b)
+
 
 Now you're all set to chat with WikiChat!
 
