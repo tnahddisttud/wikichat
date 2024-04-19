@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "app"
+version = "0.1.0"
+description = ""
+authors = ["tnahddisttud <siddhantp73@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+chromadb = "^0.4.24"
+beautifulsoup4 = "^4.12.3"
+spacy = "^3.7.4"
+torch = "^2.2.2"
+nltk = "^3.8.1"
+fastapi = "^0.110.2"
+streamlit = "^1.33.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

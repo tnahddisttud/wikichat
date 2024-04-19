@@ -1,0 +1,129 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey"
+      ],
+      "responses": [
+        "Hello!",
+        "Hi there!",
+        "Hey! How can I help you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you later"
+      ],
+      "responses": [
+        "Goodbye!",
+        "See you later!",
+        "Take care!"
+      ]
+    },
+    {
+      "tag": "age",
+      "patterns": [
+        "How old are you?",
+        "What is your age?"
+      ],
+      "responses": [
+        "I am a chatbot. I don't have an age."
+      ]
+    },
+    {
+      "tag": "name",
+      "patterns": [
+        "What's your name?",
+        "Do you have a name?"
+      ],
+      "responses": [
+        "I'm a chatbot. You can call me WikiChat."
+      ]
+    },
+    {
+      "tag": "help",
+      "patterns": [
+        "Can you help me?",
+        "I need assistance",
+        "Help please"
+      ],
+      "responses": [
+        "Sure, what do you need help with?",
+        "Of course! What can I assist you with?"
+      ]
+    },
+    {
+      "tag": "weather",
+      "patterns": [
+        "What's the weather like?",
+        "Tell me the weather forecast",
+        "Weather report"
+      ],
+      "responses": [
+        "I'm sorry, I'm not equipped to provide weather forecasts at the moment."
+      ]
+    },
+    {
+      "tag": "joke",
+      "patterns": [
+        "Tell me a joke",
+        "I need a laugh",
+        "Make me laugh"
+      ],
+      "responses": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "I told my wife she was drawing her eyebrows too high. She looked surprised!",
+        "Why don't skeletons fight each other? They don't have the guts!",
+        "I'm reading a book on anti-gravity. It's impossible to put down!",
+        "What do you call fake spaghetti? An impasta!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thank you so much!",
+        "Thanks for your help",
+        "Thanks a bunch"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Glad I could assist you!",
+        "No problem!"
+      ]
+    },
+    {
+      "tag": "news",
+      "patterns": [
+        "What's the latest news?",
+        "Any interesting news?",
+        "Tell me some news"
+      ],
+      "responses": [
+        "I'm not currently able to provide news updates. You can check news websites or apps for the latest information."
+      ]
+    },
+    {
+      "tag": "wikipedia",
+      "patterns": [
+        "Tell me about",
+        "What is",
+        "Who is",
+        "Can you provide information on",
+        "Give me details about",
+        "Define [some topic]",
+        "Explain what [something] is",
+        "What happened during "
+      ],
+      "responses": [
+        ""
+      ]
+    }
+  ]
+}

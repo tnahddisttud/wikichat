@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and Logs
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log
+*.lock
+
+# Local configuration file (if applicable)
+pycharm*.xml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Local DB
+.app/vectorstore/
+/app/vectorstore/
