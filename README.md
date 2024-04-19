@@ -61,3 +61,11 @@ You may encounter some issues during index creation with chromadb due to Sqlite3
 
 - Install pysqlite3-binary, `pip install pysqlite3-binary` and then override the default sqlite3 library before running Chroma by following the steps mentioned [here](https://gist.github.com/defulmere/8b9695e415a44271061cc8e272f3c300?permalink_comment_id=4650539#gistcomment-4650539).
 
+
+### References:
+
+- [Using spaCy in Your Chatbot for Natural Language Processing](https://cobusgreyling.medium.com/using-spacy-in-your-chatbot-for-natural-language-processing-8fa14c26bb51)
+- [How To Create an Intelligent Chatbot in Python Using the spaCy NLP Library](https://www.digitalocean.com/community/tutorials/how-to-create-an-intelligent-chatbot-in-python-using-the-spacy-nlp-library)
+- [Step-by-Step Guide to Create a Customized Chatbot Using spaCy Python NLP Library](https://community.intersystems.com/post/step-step-guide-create-customized-chatbot-using-spacy-python-nlp-library)
+- [Chroma Documentation: Getting Started](https://docs.trychroma.com/getting-started)
+- [Streamlit Tutorials: Building Conversational Apps](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)
